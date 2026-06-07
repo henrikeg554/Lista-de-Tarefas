@@ -18,7 +18,7 @@ App de tarefas feito com HTML, CSS e JavaScript.
 
 ## Como usar
 
-Baixe os arquivos e abra o `index.html` no navegador.
+Baixe os arquivos e abra no navegador.
 
 ## Autor
 
